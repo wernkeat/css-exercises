@@ -1,0 +1,19 @@
+.red-label,
+.big-red-label {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big-text {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-label {
+    background-color: lightgreen;
+    font-weight: bold;
+}
